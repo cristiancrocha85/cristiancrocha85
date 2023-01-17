@@ -2,28 +2,28 @@
 
 <div>
   <a href="https://github.com/cristiancrocha85">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiancrocha85" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiancrocha85&theme=tokyonight" />
   </a>
 </div><br>
 
 <a href="https://github.com/cristiancrocha85/SistemaWebFotografia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&repo=SistemaWebFotografia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&theme=tokyonight&repo=SistemaWebFotografia" />
 </a>
 
 <a href="https://github.com/cristiancrocha85/CursoEmVideo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&repo=CursoEmVideo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&theme=tokyonight&repo=CursoEmVideo" />
 </a><br><br>
   
 <a href="https://github.com/cristiancrocha85/Tutoriais_YouTube">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&repo=Tutoriais_YouTube" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&theme=tokyonight&repo=Tutoriais_YouTube" />
 </a>
   
 <a href="https://github.com/cristiancrocha85/cristiancrocha85.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&repo=cristiancrocha85" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&theme=tokyonight&repo=cristiancrocha85" />
 </a><br><br>
 
 <a href="https://github.com/cristiancrocha85/github-readme-stats">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancrocha85&layout=compact" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancrocha85&theme=tokyonight&layout=compact" /></p>
 </a><br>
 
 <div style="display: inline_block"><br>
