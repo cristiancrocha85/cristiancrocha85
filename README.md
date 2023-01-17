@@ -1,23 +1,29 @@
 <b>🧑🏿Olá! Meu nome é Cristian e eu gosto de tecnologia e fotografia! Simples assim!
+
 <div>
   <a href="https://github.com/cristiancrocha85">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiancrocha85&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiancrocha85" />
   </a>
 </div><br>
 
 <a href="https://github.com/cristiancrocha85/SistemaWebFotografia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&show_owner=true&repo=SistemaWebFotografia&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&repo=SistemaWebFotografia" />
 </a>
 
 <a href="https://github.com/cristiancrocha85/CursoEmVideo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&show_owner=true&repo=CursoEmVideo&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&repo=CursoEmVideo" />
 </a><br><br>
+  
+<a href="https://github.com/cristiancrocha85/Tutoriais_YouTube">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&repo=Tutoriais_YouTube" />
+</a>
+  
 <a href="https://github.com/cristiancrocha85/cristiancrocha85.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&show_owner=true&repo=cristiancrocha85&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&repo=cristiancrocha85" />
 </a><br><br>
 
 <a href="https://github.com/cristiancrocha85/github-readme-stats">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancrocha85&show_owner=true&layout=compact&theme=radical" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancrocha85&layout=compact" /></p>
 </a><br>
 
 <div style="display: inline_block"><br>
