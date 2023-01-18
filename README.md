@@ -21,9 +21,9 @@
 <a href="https://github.com/cristiancrocha85/cristiancrocha85.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiancrocha85&theme=tokyonight&repo=cristiancrocha85" />
 </a><br><br>
-
+  
 <a href="https://github.com/cristiancrocha85/github-readme-stats">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancrocha85&theme=tokyonight&layout=compact" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancrocha85&hide=&theme=tokyonight" /></p>
 </a><br>
 
 <div style="display: inline_block"><br>
