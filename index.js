@@ -1,5 +1,5 @@
 export const themes = {
-  default: {
+  tokyonight: {
     title_color: "2f80ed",
   },
 }
